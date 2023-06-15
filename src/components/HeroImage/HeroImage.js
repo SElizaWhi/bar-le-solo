@@ -6,7 +6,7 @@ const HeroImage = (props) => {
     <div className='container' 
     style={{
         background: `url(${props.menu}) no-repeat bottom center/cover`,
-    height: "60vh"}}>
+    height: "50vh"}}>
     <div className='banner-content'>
         <h1 className='heading-primary'>{props.heading}</h1>
         <p className='text-white'>{props.text}</p>
