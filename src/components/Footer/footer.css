@@ -1,0 +1,17 @@
+.footer {
+  font-size: 12px;
+  color: rgba(240, 56, 0, 0.8);
+  text-align: center;
+  padding: 10px;
+        background-color: rgba(203, 199, 199, 0.4);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.footer a {
+  margin: 5px;
+  text-decoration: none;
+  color: rgba(240, 56, 0, 0.8);
+}
