@@ -39,7 +39,7 @@ const Navbar = () => {
             </li>
             <li onClick={handleClick}>
               <NavLink className="nav-link" to="/contact">
-                Contactez nous
+                Horaires & Coordonnées
               </NavLink>
             </li>
             {/* Reservation button */}

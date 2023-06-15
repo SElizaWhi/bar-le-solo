@@ -8,32 +8,21 @@ const AboutInfo = () => {
         <div>
           <div className="about-info-content">
             <h2 className="heading-secondary">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-              aliquet ut nibh sed tincidunt. Maecenas vulputate augue eget mi
-              rhoncus volutpat.
+            Nous c'est Franck et Véronique
             </h2>
-            <h4>gdflkjdbl;gsgnk f.jbdkjebf lkjdbf legfujhvef ishf</h4>
+            <h4>Bienvenu chez nous</h4>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-              aliquet ut nibh sed tincidunt.{" "}
-              <span className="special-word">Maecenas</span> vulputate augue
-              eget mi rhoncus volutpat. Fusce vitae arcu id est porttitor
-              sagittis. Vestibulum porta pellentesque pulvinar. Etiam et mi id
-              mi sagittis tincidunt non vel ipsum. Nullam sagittis risus mattis
-              efficitur vestibulum. Nunc id efficitur ligula.
-            </p>
-            <blockquote>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            </blockquote>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-              aliquet ut nibh sed tincidunt. Maecenas vulputate augue eget mi
-              rhoncus volutpat. Fusce vitae arcu id est porttitor sagittis.
-              Vestibulum porta pellentesque pulvinar. Etiam et mi id mi sagittis
-              tincidunt non vel ipsum. Nullam sagittis risus mattis efficitur
-              vestibulum. Nunc id <span className='special-word'> efficitur </span>ligula. Praesent gravida, est in
-              tempor mollis, odio urna rutrum nisl, in molestie est justo nec
-              mauris. 
+              Nous avons entrepris de donner un nouveau souffle à notre village
+              avec notre bar-restaurant. La{" "}
+              <span className="special-word">qualité</span> est une valeur
+              primordiale pour nous, et nous nous efforçons de proposer des mets
+              délicieux et soigneusement préparés. De plus, notre accueil{" "}
+              <span className="special-word">chaleureux</span> est une
+              priorité, car nous souhaitons offrir une expérience agréable à
+              tous nos clients. Nous sommes ravis de contribuer à la
+              revitalisation de notre village en créant un lieu convivial où
+              l'on peut profiter d'une cuisine savoureuse et d'une ambiance
+              chaleureuse.
             </p>
           </div>
         </div>

@@ -8,10 +8,10 @@ const Menu = () => {
     <div>
       <HeroImage
         menu={menu}
-        heading={["Notre", <span>Menu</span>]}
-        text="Tout ce que nous avons à vous proposer en un clin d'oeil"
+        heading={["Notre ", <span>Menu</span>]}
+        text="Notre menu évolue régulièrement pour vous offrir la meilleure qualité possible en utilisant des produits frais et locaux de première qualité."
       />
-      <MenuOfTheDay/>
+      <MenuOfTheDay />
     </div>
   );
 };
